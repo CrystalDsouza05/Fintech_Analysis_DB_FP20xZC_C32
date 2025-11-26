@@ -1,4 +1,4 @@
-# 💳 FinTech Analytics Dashboard - FP20 Analytics Challenge 32
+# 💳 FinTech Analytics Dashboard - FP20 Analytics Challenge 32 x ZoomCharts Mini Challenge
 
 ## 📊 Overview
 This dashboard was created for **FP20 Analytics Challenge 32**, which focuses on analyzing a **FinTech Project Management Dataset** from a company developing innovative payment solutions across Europe. The goal is to uncover insights that improve **project delivery efficiency, resource allocation, cost control, and performance monitoring** across multiple fintech products such as digital wallets, tap-to-pay systems, and online payment APIs.
@@ -166,6 +166,19 @@ Page 2:
 Page 3:  
 
 <img width="1280" height="720" alt="Slide3" src="https://github.com/user-attachments/assets/410ba028-6716-466e-a741-03acbd206c3a" />
+
+---
+
+## ZoomCharts Submission
+
+Changed the Theme and added ZoomCarts Visuals. 
+
+<img width="2008" height="1129" alt="image" src="https://github.com/user-attachments/assets/7508512e-7c3d-4106-bd0c-9268743cd0a1" />
+
+<img width="2008" height="1129" alt="image" src="https://github.com/user-attachments/assets/1ec12cc1-d1bd-4c15-8e54-4107b8393af4" />
+
+<img width="2008" height="1129" alt="image" src="https://github.com/user-attachments/assets/eb65e5fa-8763-4592-95fc-330c84d8f561" />
+
 
 ---
 
