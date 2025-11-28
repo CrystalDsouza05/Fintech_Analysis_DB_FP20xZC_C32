@@ -3,8 +3,7 @@
 ## 📊 Overview
 This dashboard was created for **FP20 Analytics Challenge 32**, which focuses on analyzing a **FinTech Project Management Dataset** from a company developing innovative payment solutions across Europe. The goal is to uncover insights that improve **project delivery efficiency, resource allocation, cost control, and performance monitoring** across multiple fintech products such as digital wallets, tap-to-pay systems, and online payment APIs.
 
-### Dashboard Link
-**Link coming soon...**
+### [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiZmU0OGE0NzctYWM2NS00YzQ0LWE0YmMtOTYzZWY1NDU4Zjc2IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 
 This project uses **Power BI** to transform complex operational data into an interactive and intuitive analytical experience. It provides clear visibility into planned versus actual performance, task execution, employee productivity, efficiencies, and overall project health.
 
